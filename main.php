@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    
+    echo "Gyakorlás"
     ?>
 </body>
 </html>
