@@ -1,9 +1,9 @@
 <?php 
 
 $sName = "localhost";
-$uName = "root";
-$pass = "";
-$db_name = "auth_db";
+$uName = "c31olahbencedbu";
+$pass = "kysCBT_jM4";
+$db_name = "c31olahbencedb";
 
 try {
     $conn = new PDO("mysql:host=$sName;dbname=$db_name", 
