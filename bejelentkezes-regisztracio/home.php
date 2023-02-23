@@ -18,6 +18,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['fname'])) {
     
         <div class="shadow w-450 p-3 text-center">
             <h3>Üdvözöljük Pékségünkben,<br> <?=$_SESSION['fname']?></h3>
+            <a href= "../index.php" class="btn btn-warning">Főoldal</a>
             <a href= "logout.php" class="btn btn-warning">Kilépés</a>
         </div>
     </div>
