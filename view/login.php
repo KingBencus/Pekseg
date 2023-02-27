@@ -12,7 +12,7 @@
     <div class="d-flex justify-content-center align-items-center vh-100">  
     
     <form class="shadow w-450 p-3"
-              action="php/login.php"
+              action="controller/login.php"
               method="post">
 
                 <h4 class="display-4 text-center fs-1">Bejelentkezes</h4><br>
