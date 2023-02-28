@@ -48,6 +48,15 @@ body {background-color: #F9C784;}
     <h6 style="color: #784A0D; text-align:center;">450ft/db</h6>
   </tr>
 </table>
+<br>
+<br>
+  <table style="border: 2px solid white; margin: auto; color: white;">
+  <tr>
+    <th colspan="2"><a href="./view/kakaoscsiga.php"><img src="./kepek/kakaos.jpg" title="Kakaós csiga"></a></th>
+    <h6 style="color: #784A0D; text-align:center;">Kakaós Csiga</h6>
+    <h6 style="color: #784A0D; text-align:center;">550ft/db</h6>
+  </tr>
+</table>
   </div>
 </body>
 </html>
