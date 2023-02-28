@@ -37,7 +37,6 @@ body {background-color: #F9C784;}
     </form>
   </div>
 </nav>
-<div style=>
   <div>
   <br>
   <h1 style="color: #784A0D; text-align:center;">Aktuális friss termékeink:</h1>
@@ -45,6 +44,8 @@ body {background-color: #F9C784;}
   <table style="border: 2px solid white; margin: auto; color: white;">
   <tr>
     <th colspan="2"><a href="./view/csokiscroissant.php"><img src="kepek/csokisc.jpg" title="Csokis Croissant"></a></th>
+    <h6 style="color: #784A0D; text-align:center;">Csokis Croissant</h6>
+    <h6 style="color: #784A0D; text-align:center;">450ft/db</h6>
   </tr>
 </table>
   </div>
