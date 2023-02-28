@@ -37,5 +37,30 @@ body {background-color: #F9C784;}
     </form>
   </div>
 </nav>
+
+<br>
+  <h1 style="color: #784A0D; text-align:center;">Elérhetőségeink:</h1>
+  <br>
+  <br>
+  <br>
+  <h3 style="color: #784A0D; text-align:center;">Telefonszámunk:</h3>
+  <h3 style="color: #50514F; text-align:center;">06 30 337 4091</h3>
+  <br>
+  <br>
+  <br>
+  <h3 style="color: #784A0D; text-align:center;">Üzlet helye:</h3>
+  <h3 style="color: #50514F; text-align:center;">2800 Tatabánya Mátyás Király utca 25.</h3>
+  <br>
+  <br>
+  <br>
+  <h3 style="color: #784A0D; text-align:center;">E-mail címünk:</h3>
+  <h3 style="color: #50514F; text-align:center;">olahpekseg@gmail.com</h3>
+  <br>
+  <br>
+  <br>
+  <h3 style="color: #784A0D; text-align:center;">Reklamációs vonal:</h3>
+  <h3 style="color: #50514F; text-align:center;">Örömmel tájékoztatjuk Kedves Vásárlóinkat, hogy észrevételeikkel, ötleteikkel, esetenként panaszaikkal egy új kommunikációs csatornán, a panaszolahpekseg@gmail.com email címen érhetnek el bennünket</h3>
+  <br>
+  <br>
 </body>
 </html>
