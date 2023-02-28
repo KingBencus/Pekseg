@@ -15,15 +15,15 @@ if(isset($_POST['fname']) &&
 
     if (empty($fname)) {
         $em = "Teljes név kötelező";
-        header("Location: ../register.php?error=$em&$data");
+        header("Location: ../view/register.php?error=$em&$data");
         exit;
     }else if(empty($uname)){
         $em = "Felhasználó név kötelező";
-        header("Location: ../register.php?error=$em&$data");
+        header("Location: ../view/register.php?error=$em&$data");
         exit;
     }else if(empty($pass)){
         $em = "Jelszó kötelező";
-        header("Location: ../register.php?error=$em&$data");
+        header("Location: ../view/register.php?error=$em&$data");
         exit;
     }else {
 
@@ -34,11 +34,11 @@ if(isset($_POST['fname']) &&
         $stmt = $conn->prepare($sql);
         $stmt->execute([$fname, $uname, $pass]);
 
-        header("Location: ../register.php?success=Sikeres regisztáció");
+        header("Location: ../view/register.php?success=Sikeres regisztáció");
         exit;
     }
 
 }else {
-    header("Location: ../register.php?error=error");
+    header("Location: ../view/register.php?error=error");
     exit;
 }

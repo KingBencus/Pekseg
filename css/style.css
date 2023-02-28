@@ -4,3 +4,11 @@
 .vh-100{
     min-height: 100vh;
 }
+.logo img{
+    margin-top: 15px;
+    width: 15px;
+}
+.img-fluid{
+    position: to;
+    width: 85px;
+}

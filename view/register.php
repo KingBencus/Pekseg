@@ -12,7 +12,7 @@
     <div class="d-flex justify-content-center align-items-center vh-100">  
     
     <form class="shadow w-450 p-3"
-              action="controller/singup.php"
+              action="../controller/singup.php"
               method="post">
 
                 <h4 class="display-4 text-center fs-1">Regisztráció</h4><br>
@@ -54,7 +54,7 @@
             </div>
 
             <button type="submit" class="btn btn-primary">Regisztrál</button>
-            <a href="login.php" class="link-secondary">Bejelentkezes</a>
+            <a href="../view/login.php" class="link-secondary">Bejelentkezes</a>
         </form>
     </div>
 </body>

@@ -19,13 +19,13 @@ if (isset($_SESSION['id']) && isset($_SESSION['fname'])) {
         <div class="shadow w-450 p-3 text-center">
             <h3>Üdvözöljük Pékségünkben,<br> <?=$_SESSION['fname']?></h3>
             <a href= "../index.php" class="btn btn-warning">Főoldal</a>
-            <a href= "logout.php" class="btn btn-warning">Kilépés</a>
+            <a href= "../controller/logout.php" class="btn btn-warning">Kilépés</a>
         </div>
     </div>
 </body>
 </html>
 
 <?php }else {
-    header("Location: login.php");
+    header("Location: ../controller/login.php");
     exit;
 } ?>
