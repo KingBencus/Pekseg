@@ -73,20 +73,7 @@ body {background-color: #F9C784;}
   </div>
   <div style="width: 50%; text-align:center; color: #784A0D;"><h5>Allergének</h5>
   <hr>
-    <h5 style="color: #784A0D; text-align:center;"> Édesítőszer</h5>
     <h5 style="color: #784A0D; text-align:center;">&bull; Glutén</h5>
-    <h5 style="color: #784A0D; text-align:center;"> Tojás</h5>
-    <h5 style="color: #784A0D; text-align:center;"> hal</h5>
-    <h5 style="color: #784A0D; text-align:center;"> Földimogyoró </h5>
-    <h5 style="color: #784A0D; text-align:center;"> Szójabab </h5>
-    <h5 style="color: #784A0D; text-align:center;"> Tej </h5>
-    <h5 style="color: #784A0D; text-align:center;"> Diófélék </h5>
-    <h5 style="color: #784A0D; text-align:center;"> Zeller </h5>
-    <h5 style="color: #784A0D; text-align:center;"> Mustár  </h5>
-    <h5 style="color: #784A0D; text-align:center;"> Szezámmag </h5>
-    <h5 style="color: #784A0D; text-align:center;"> Kén-dioxid </h5>
-    <h5 style="color: #784A0D; text-align:center;"> Csillagfürt </h5>
-    <h5 style="color: #784A0D; text-align:center;"> Rozsliszt </h5>
    <br>
 </div>
 </body>
