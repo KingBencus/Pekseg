@@ -43,7 +43,7 @@ body {background-color: #F9C784;}
   <br>
   <table style="border: 2px solid white; margin: auto; color: white;">
   <tr>
-    <th colspan="2"><a href="./view/csokiscroissant.php"><img src="kepek/csokisc.jpg" title="Csokis Croissant"></a></th>
+    <th colspan="2"><a href="./view/pekaru/csokiscroissant.php"><img src="kepek/csokisc.jpg" title="Csokis Croissant"></a></th>
     <h6 style="color: #784A0D; text-align:center;">Csokis Croissant</h6>
     <h6 style="color: #784A0D; text-align:center;">450ft/db</h6>
   </tr>
@@ -52,7 +52,7 @@ body {background-color: #F9C784;}
 <br>
   <table style="border: 2px solid white; margin: auto; color: white;">
   <tr>
-    <th colspan="2"><a href="./view/kakaoscsiga.php"><img src="./kepek/kakaos.jpg" title="Kakaós csiga"></a></th>
+    <th colspan="2"><a href="./view/pekaru/kakaoscsiga.php"><img src="./kepek/kakaos.jpg" title="Kakaós csiga"></a></th>
     <h6 style="color: #784A0D; text-align:center;">Kakaós Csiga</h6>
     <h6 style="color: #784A0D; text-align:center;">550ft/db</h6>
   </tr>
@@ -61,7 +61,7 @@ body {background-color: #F9C784;}
 <br>
   <table style="border: 2px solid white; margin: auto; color: white;">
   <tr>
-    <th colspan="2"><a href="./view/kenyer.php"><img src="./kepek/kenyer.jpg" title="Kenyér"></a></th>
+    <th colspan="2"><a href="./view/pekaru/kenyer.php"><img src="./kepek/kenyer.jpg" title="Kenyér"></a></th>
     <h6 style="color: #784A0D; text-align:center;">Kenyér</h6>
     <h6 style="color: #784A0D; text-align:center;">400ft/db</h6>
   </tr>
