@@ -57,6 +57,15 @@ body {background-color: #F9C784;}
     <h6 style="color: #784A0D; text-align:center;">550ft/db</h6>
   </tr>
 </table>
+<br>
+<br>
+  <table style="border: 2px solid white; margin: auto; color: white;">
+  <tr>
+    <th colspan="2"><a href="./view/kenyer.php"><img src="./kepek/kenyer.jpg" title="Kenyér"></a></th>
+    <h6 style="color: #784A0D; text-align:center;">Kenyér</h6>
+    <h6 style="color: #784A0D; text-align:center;">400ft/db</h6>
+  </tr>
+</table>
   </div>
 </body>
 </html>
