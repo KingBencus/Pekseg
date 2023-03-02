@@ -9,11 +9,15 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
+<style>
+body {background-color: #F9C784;}
+   </style>
     <div class="d-flex justify-content-center align-items-center vh-100">  
     
     <form class="shadow w-450 p-3"
               action="../controller/login.php"
-              method="post">
+              method="post"
+              style="background-color: white; border-radius: 10px;">
 
                 <h4 class="display-4 text-center fs-1">Bejelentkezes</h4><br>
                 <?php if(isset($_GET['error'])){ ?>
@@ -38,8 +42,8 @@
                        name="pass">
             </div>
 
-            <button type="submit" class="btn btn-primary">Belépés</button>
-            <a href="../view/register.php" class="link-secondary">Regisztráció</a>
+            <button type="submit" class="btn btn-primary" style="background-color: #F9C784; color: black;">Belépés</button>
+            <a href="../view/register.php" class="link-secondary" style="color: black;">Regisztráció</a>
         </form>
     </div>
 </body>
