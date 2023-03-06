@@ -14,7 +14,7 @@ if (empty($_SESSION['id'])) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>csokiscroissant</title>
+    <title>pizzascsiga</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="../../css/style.css">
 </head>
@@ -57,42 +57,43 @@ body {background-color: #F9C784;}
 </nav>
 <table style="margin: auto; color: white;">
   <tr>
-    <th colspan="2"><img src="../../kepek/csokisc.jpg" title="Csokis Croissant"></a></th>
+    <th colspan="2"><img src="../../kepek/pizzascs.jpg" title="Pizzás csiga"></a></th>
   </tr>
 </table>
-    <h4 style="color: #784A0D; text-align:center;">Csokis Croissant</h4>
+    <h4 style="color: #784A0D; text-align:center;">Pizzás csiga</h4>
     <h4 style="color: #784A0D; text-align:center;">100g</h4>
     <hr>
     <h4 style="color: #784A0D; text-align:center;">Összetevők:</h4>
     <table style="color: #784A0D; margin: 0 auto">
       <tr>
         <th>Búzafinomliszt (BL55), </th>
+        <th>pizza töltelék (19%), </th>
         <th>ivóvíz, </th>
-        <th>kakaós töltelék (21%), </th>
         <th>leveles margarin, </th>
+        <th>sajt, </th>
         <th>élesztő, </th>
         <th>étkezési só, </th>
-        <th>étolaj, </th>
       </tr>
     </table>
     <hr>
     <div style="display: flex;">
   <div style="width: 50%; text-align:center; color: #784A0D;"><h5>Tápérték infromáció /100g</h5>
   <hr>
-    <h5 style="color: #784A0D; text-align:center;">Energia(kJ) 1530</h5>
-    <h5 style="color: #784A0D; text-align:center;">Energia(kcal) 364</h5>
-    <h5 style="color: #784A0D; text-align:center;">Zsír(g) 14</h5>
-    <h5 style="color: #784A0D; text-align:center;">-ebből terített zsírsav(g) 6,4</h5>
-    <h5 style="color: #784A0D; text-align:center;">Szénhidrát(g) 53</h5>
-    <h5 style="color: #784A0D; text-align:center;">-ebből cukor(g) 22</h5>
-    <h5 style="color: #784A0D; text-align:center;">Rost(g) 1,6</h5>
-    <h5 style="color: #784A0D; text-align:center;">Fehérje(g) 5,7</h5>
-    <h5 style="color: #784A0D; text-align:center;">Só(g) 0,88</h5>
+    <h5 style="color: #784A0D; text-align:center;">Energia(kJ) 1368</h5>
+    <h5 style="color: #784A0D; text-align:center;">Energia(kcal) 327</h5>
+    <h5 style="color: #784A0D; text-align:center;">Zsír(g) 17</h5>
+    <h5 style="color: #784A0D; text-align:center;">-ebből terített zsírsav(g) 8,5</h5>
+    <h5 style="color: #784A0D; text-align:center;">Szénhidrát(g) 35</h5>
+    <h5 style="color: #784A0D; text-align:center;">-ebből cukor(g) 9,7</h5>
+    <h5 style="color: #784A0D; text-align:center;">Rost(g) 1,1</h5>
+    <h5 style="color: #784A0D; text-align:center;">Fehérje(g) 8,1</h5>
+    <h5 style="color: #784A0D; text-align:center;">Só(g) 1,6</h5>
     <br>
   </div>
   <div style="width: 50%; text-align:center; color: #784A0D;"><h5>Allergének</h5>
   <hr>
     <h5 style="color: #784A0D; text-align:center;">&bull; Glutén</h5>
+    <h5 style="color: #784A0D; text-align:center;">&bull; Tej </h5>
    <br>
 </div>
 </body>

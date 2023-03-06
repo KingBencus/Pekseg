@@ -24,7 +24,7 @@ if (empty($_SESSION['id'])) {
 body {background-color: #F9C784;}
    </style>
    
-<nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding: 1px 1px">
+<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top" style="padding: 1px 1px">
   <a class="navbar-brand" href="../index.php"> <img src="../kepek/logo.png" class="img-fluid"></a>
   <a class="navbar-brand" href="../index.php">Oláh Pékség</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

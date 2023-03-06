@@ -24,7 +24,7 @@ if (empty($_SESSION['id'])) {
 body {background-color: #F9C784;}
    </style>
    
-<nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding: 1px 1px">
+<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top" style="padding: 1px 1px">
   <a class="navbar-brand" href="./index.php"> <img src="./kepek/logo.png" class="img-fluid"></a>
   <a class="navbar-brand" href="./index.php">Oláh Pékség</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -84,6 +84,17 @@ body {background-color: #F9C784;}
     <h6 style="color: #784A0D; text-align:center;">400ft/db</h6>
   </tr>
 </table>
+<br>
+<br>
+<table style="border: 2px solid white; margin: auto; color: white;">
+  <tr>
+    <th colspan="2"><a href="./view/pekaru/pizzascsiga.php"><img src="./kepek/pizzascs.jpg" title="Pizzás csiga"></a></th>
+    <h6 style="color: #784A0D; text-align:center;">Pizzás csiga</h6>
+    <h6 style="color: #784A0D; text-align:center;">450ft/db</h6>
+  </tr>
+</table>
+<br>
+<br>
   </div>
 </body>
 </html>
