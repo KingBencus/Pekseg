@@ -14,12 +14,12 @@ if (isset($_SESSION['id']) && isset($_SESSION['fname'])) {
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-    <div class="d-flex justify-content-center align-items-center vh-100">  
+    <div class="d-flex justify-content-center align-items-center vh-100" style="background-color:#F9C784">  
     
-        <div class="shadow w-450 p-3 text-center">
+        <div class="shadow w-450 p-3 text-center" style="background-color:white">
             <h3>Üdvözöljük Pékségünkben,<br> <?=$_SESSION['fname']?></h3>
-            <a href= "../../index.php" class="btn btn-warning">Főoldal</a>
-            <a href= "../../controller/logout.php" class="btn btn-warning">Kilépés</a>
+            <a href= "../../index.php" class="btn btn-warning" style="background-color: #F9C784; color: black;">Főoldal</a>
+            <a href= "../../controller/logout.php" class="btn btn-warning" style="background-color: #F9C784; color: black;">Kilépés</a>
         </div>
     </div>
 </body>
