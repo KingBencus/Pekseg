@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="hu">
 <head>
@@ -15,7 +18,7 @@ body {background-color: #F9C784;}
     <div class="d-flex justify-content-center align-items-center vh-100">  
     
     <form class="shadow w-450 p-3"
-              action="../controller/login.php"
+              action="../../controller/login.php"
               method="post"
               style="background-color: white; border-radius: 10px;">
 
@@ -43,7 +46,7 @@ body {background-color: #F9C784;}
             </div>
 
             <button type="submit" class="btn btn-primary" style="background-color: #F9C784; color: black;">Belépés</button>
-            <a href="../view/register.php" class="link-secondary" style="color: black;">Regisztráció</a>
+            <a href="register.php" class="link-secondary" style="color: black;">Regisztráció</a>
         </form>
     </div>
 </body>

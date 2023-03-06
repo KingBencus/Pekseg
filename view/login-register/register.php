@@ -15,7 +15,7 @@ body {background-color: #F9C784;}
     <div class="d-flex justify-content-center align-items-center vh-100">  
     
     <form class="shadow w-450 p-3"
-              action="../controller/singup.php"
+              action="../../controller/singup.php"
               method="post"
               style="background-color:white; border-radius: 10px;">
 
@@ -58,7 +58,7 @@ body {background-color: #F9C784;}
             </div>
 
             <button type="submit" class="btn btn-primary" style="background-color:#F9C784; color: black;">Regisztrál</button>
-            <a href="../view/login.php" class="link-secondary" style="color: black;">Bejelentkezes</a><br>
+            <a href="login.php" class="link-secondary" style="color: black;">Bejelentkezes</a><br>
         </form>
     </div>
 </body>

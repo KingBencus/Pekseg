@@ -14,11 +14,11 @@ if (isset($_POST['uname']) &&
 
     if(empty($uname)){
         $em = "Felhasználó név kötelező";
-        header("Location: ./view/login.php?error=$em&$data");
+        header("Location: ../view/login-register/login.php?error=$em&$data");
         exit;
     }else if(empty($pass)){
         $em = "Jelszó kötelező";
-        header("Location: .//view/login.php?error=$em&$data");
+        header("Location: ../view/login-register/login.php?error=$em&$data");
         exit;
     }else {
 
@@ -38,28 +38,29 @@ if (isset($_POST['uname']) &&
                     $_SESSION['id'] = $id;
                     $_SESSION['fname'] = $fname;
 
-                    header("Location: ../view/home.php");
+                    header("Location: ../view/login-register/home.php");
                     exit;
 
                 }else {
                     $em = "Rossz felhasználó név vagy jelszó";
-                    header("Location: ./view/login.php?error=$em&$data");
+                    header("Location: ../view/login-register/login.php?error=$em&$data");
                     exit;
                 }
             }else {
                 $em = "Rossz felhasználó név vagy jelszó";
-                header("Location: ./view/login.php?error=$em&$data");
+                header("Location: ../view/login-register/login.php?error=$em&$data");
                 exit;
             }
 
         }else {
             $em = "Rossz felhasználó név vagy jelszó";
-            header("Location: ./view/login.php?error=$em&$data");
+            header("Location: ../view/login-register/login.php?error=$em&$data");
             exit;
         }
     }
 
 }else {
-    header("Location: ./view/login.php?error=error");
+    header("Location: ../view/login-register/login.php?error=error");
     exit;
 }
+?>
