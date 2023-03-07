@@ -38,6 +38,9 @@ body {background-color: #F9C784;}
       <li class="nav-item active">
         <a class="nav-link" href="view/elerhetoseg.php">Elérhetőségeink<span class="sr-only">(current)</span></a>
       </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="view/nyitvatartas.php">Nyitvatartás<span class="sr-only">(current)</span></a>
+      </li>
       <?php if(empty($fname)) { ?>
       <li class="nav-item">
         <a class="nav-link" href="view/register.php">Regisztáció</a>

@@ -37,6 +37,10 @@ body {background-color: #F9C784;}
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="elerhetoseg.php">Elérhetőségeink<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="./nyitvatartas.php">Nyitvatartás<span class="sr-only">(current)</span></a>
+      </li>
         <?php if(empty($fname)) { ?>
       <li class="nav-item">
         <a class="nav-link" href="./login-register/register.php">Regisztáció</a>
