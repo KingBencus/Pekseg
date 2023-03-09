@@ -91,7 +91,7 @@ body {background-color: #F9C784;}
 <br>
 <table style="border: 2px solid white; margin: auto; color: white;">
   <tr>
-    <th colspan="2"><a href="./view/pekaru/pizzascsiga.php"><img src="./kepek/pizzascs.jpg" title="Pizzás csiga"></a></th>
+    <th colspan="2"><a href="./view/pekaru/pizzascsiga.php"><img src="./kepek/pizzascsiga.jpg" title="Pizzás csiga"></a></th>
     <h6 style="color: #784A0D; text-align:center;">Pizzás csiga</h6>
     <h6 style="color: #784A0D; text-align:center;">450ft/db</h6>
   </tr>

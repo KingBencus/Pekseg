@@ -60,7 +60,7 @@ body {background-color: #F9C784;}
 </nav>
 <table style="margin: auto; color: white;">
   <tr>
-    <th colspan="2"><img src="../../kepek/pizzascs.jpg" title="Pizzás csiga"></a></th>
+    <th colspan="2"><img src="../../kepek/pizzascsiga.jpg" title="Pizzás csiga"></a></th>
   </tr>
 </table>
     <h4 style="color: #784A0D; text-align:center;">Pizzás csiga</h4>
